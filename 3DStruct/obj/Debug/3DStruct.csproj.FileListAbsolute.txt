@@ -1,0 +1,1009 @@
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\3DStruct\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.2\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.3\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.4\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.5\3DStruct\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.6\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.7\3DStruct\obj\Debug\_3DStruct.Form1.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ZedGraph.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ZedGraph.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.8\3DStruct\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ZedGraph.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ZedGraph.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct - beta 0.9\3DStruct\obj\Debug\_3DStruct.Matrix.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\3DStruct.exe.config
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\3DStruct.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\OpenTK.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ZedGraph.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\OpenTK.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\OpenTK.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ZedGraph.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\3DStruct.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\_3DStruct._2DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\_3DStruct._3DEditor.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\_3DStruct.MainForm.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\_3DStruct.Matrix.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\_3DStruct.Properties.Resources.resources
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\3DStruct.csproj.GenerateResource.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\3DStruct.exe.licenses
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\3DStruct.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\3DStruct.csproj.CopyComplete
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\3DStruct.exe
+C:\Users\Gwynbleidd\source\repos\HSE\2020-21\Компьютерная графика\3DStruct\3DStruct\obj\Debug\3DStruct.pdb
